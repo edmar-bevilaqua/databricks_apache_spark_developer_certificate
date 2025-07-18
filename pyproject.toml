@@ -1,0 +1,19 @@
+[project]
+name = "databricks-apache-spark-developer-certificate"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Edmar",email = "edmar.bevi@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
